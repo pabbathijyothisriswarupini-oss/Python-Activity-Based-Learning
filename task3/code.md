@@ -18,7 +18,7 @@ Hospital Billing and Patient Classification: Process consultation, diagnostic, a
 10. Stop.
 
 ## 3. Flowchart
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter patient and billing details/]
