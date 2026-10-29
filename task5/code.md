@@ -1,16 +1,7 @@
 # Multi-Plan Telecommunications Cost Optimization in Python
 
 ## 1. Problem Statement
-
-flowchart TD
-    A([Start]) --> B[/Enter usage and plan details/]
-    B --> C[Calculate total plan costs]
-    C --> D{Within budget and validity?}
-    D -->|Yes| E[Select lowest-cost plan]
-    D -->|No| F[Reject plan]
-    E --> G[/Display best plan/]
-    F --> G
-    G --> H([Stop])
+ Multi-Plan Telecommunications Cost Optimization: Evaluate several mobile plans against usage, validity, and budget constraints; calculate excess charges and identify the most economical eligible plan. 
 
 
 
@@ -28,7 +19,7 @@ flowchart TD
 10. Stop.
 
 ## 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter usage and plan details/]
@@ -39,7 +30,7 @@ flowchart TD
     E --> G[/Display best plan/]
     F --> G
     G --> H([Stop])
-
+```
 
 
 ## 5. Sample Input
