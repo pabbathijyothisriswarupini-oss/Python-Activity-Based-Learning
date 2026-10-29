@@ -17,8 +17,7 @@
 10. Stop.
 
 ## 3. Flowchart 
-```m*ermaid
-
+```mermaid
 flowchart TD
     A([Start]) --> B[/Enter budget and expenses/]
     B --> C[Convert expenses to INR]
