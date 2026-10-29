@@ -17,7 +17,7 @@ Campus Event Financial Planning: Calculate venue, equipment, catering, transport
 9. Stop.
 
 ## 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter event costs and sponsorship/]
