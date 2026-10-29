@@ -29,7 +29,7 @@ flowchart TD
     F --> G[/Display final bill and status/]
     D --> H([Stop])
     G --> H
-
+```
 
 ## 5. Sample Input
 
