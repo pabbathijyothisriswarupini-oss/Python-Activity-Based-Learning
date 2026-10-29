@@ -18,7 +18,7 @@ Retail Billing with Multiple Discount Rules: Process multiple products, quantiti
 10. Stop.
 
 ## 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Enter product details/]
@@ -31,7 +31,7 @@ flowchart TD
     G --> H[/Display itemized invoice/]
     H --> I([Stop])
 
-
+```
 
 
 
