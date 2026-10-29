@@ -15,7 +15,7 @@
 7. Stop.
 
 ## 3. Flowchart 
-```Mermaid
+```mermaid
 
 flowchart TD
     A([Start]) --> B[/Input salary details/]
