@@ -17,7 +17,7 @@
 10. Stop.
 
 ## 3. Flowchart 
-```Mermaid
+```m*ermaid
 
 flowchart TD
     A([Start]) --> B[/Enter budget and expenses/]
