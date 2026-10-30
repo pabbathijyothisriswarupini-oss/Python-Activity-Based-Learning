@@ -1,4 +1,4 @@
-# University Scholarship Allocation System in Python
+## University Scholarship Allocation System in Python
 
 ## 1. Problem Statement
 
@@ -29,7 +29,7 @@ These are sample rules for the program and can be changed according to universit
 11. If no students qualify, display an appropriate message.
 12. Stop the program.
 
-## 3. Flowchart using Mermaid
+## 3. Flowchart
 
 ```mermaid
 flowchart TD
