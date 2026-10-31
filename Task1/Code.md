@@ -4,15 +4,6 @@
 
 Develop a menu-driven Python program to allocate university scholarships based on students' aggregate marks, subject-wise minimum marks, attendance percentage, and family income. The program identifies eligible students, ranks them according to aggregate marks, and resolves ties using attendance percentage and lower family income. Finally, it displays the ranked list of eligible students.
 
-Eligibility criteria (example):
-
-- Aggregate marks: at least 75%.
-- Minimum score in every subject: 60 marks out of 100.
-- Attendance: at least 75%.
-- Annual family income: not more than ₹2,50,000.
-- Tie-breaking: higher aggregate marks, then higher attendance, then lower family income.
-
-These are sample rules for the program and can be changed according to university policy.
 
 ## 2. Algorithm
 
