@@ -1,5 +1,8 @@
+
 # Python-Activity-Based-Learning
-NAME:PABBATHI JYOTHI SRI SWARUPINI ROLL NO: 26000185 BRANCH: CSE-3
+NAME:PABBATHI JYOTHI SRI SWARUPINI
+ROLL NO: 26000185
+BRANCH: CSE-3
 
  (TASK-1) 1.University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules.
  
